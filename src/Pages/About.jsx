@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              "a modeler and informatics student who focuses on the development of the animation and digital world who always provides the best solutions in every project"
+              a modeler and informatics student who focuses on the development of the animation and digital world who always provides the best solutions in every project
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
