@@ -10,10 +10,10 @@ import {
 const socialLinks = [
   {
     name: "LinkedIn",
-    displayName: "Let's Connect",
+    displayName: "Let's Connect (not yet!)",
     subText: "on LinkedIn",
     icon: Linkedin,
-    url: "https://www.linkedin.com/in/ekizr/",
+    url: "null",
     color: "#0A66C2",
     gradient: "from-[#0A66C2] to-[#0077B5]",
     isPrimary: true
@@ -48,7 +48,7 @@ const socialLinks = [
   {
     name: "TikTok",
     displayName: "Tiktok",
-    subText: "@eki_zulfar",
+    subText: "Not yet!",
     icon: ({ className, ...props }) => (
      <svg width="24px" height="24px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Tiktok</title>
@@ -61,7 +61,7 @@ const socialLinks = [
     </g>
 </svg>
     ),
-    url: "https://tiktok.com/@eki_zulfar",
+    url: "null",
     color: "black",
     gradient: "from-[#000000] via-[#25F4EE] to-[#FE2C55]"
   }
